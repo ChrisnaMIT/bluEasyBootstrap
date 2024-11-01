@@ -51,47 +51,14 @@ html,body{
 }
 
 .partTwo{
-    background-color:deepskyblue ;
-    height: 500px;
-    display: flex;
-    color: white;
-    font-size: 20px;
-
-}
-
-.titreServices{
-    font-size: 30px;
-    padding-left: 60px;
-    padding-top: 60px;
-}
-
-.imageTwo{
-    padding-bottom: 10px;
-}
-.card{
-    display: flex;
-    flex-direction: column;
-    background-color: deepskyblue;
-    border: none;
-}
-.card-bodyTwo{
-    padding-top: 150px;
-    gap: 10px;
+    height:401px;
 }
 
 .partThree{
-    display: flex;
-    height: 700px;
-    font-size: 20px;
-
+    height: 600px;
 }
 
-.cardFolio{
-    display: grid;
-    grid-template-columns: repeat(auto-fill,minmax(200px,1fr));
-    gap: 10px;
-
-}
-.containerPhotoFolio{
-
+.partFour{
+   background-color: #6c757d;
+    height: 550px;
 }
