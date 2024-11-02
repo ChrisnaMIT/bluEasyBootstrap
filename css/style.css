@@ -64,6 +64,23 @@ html,body{
 }
 
 .partFive{
+    display: flex;
     height: 300px;
     background-color: deepskyblue;
+}
+.partSix{
+    display: flex;
+    height: 400px;
+    background-color: lightsteelblue;
+}
+
+.partSeven{
+    height: 350px;
+    background-color: white;
+}
+
+.partEight{
+    display: flex;
+    height: 600px;
+    background-color: lightsteelblue;
 }
