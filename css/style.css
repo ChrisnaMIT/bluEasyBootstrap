@@ -51,23 +51,24 @@ html,body{
 }
 
 .partTwo{
-    height:401px;
-}
 
-.partThree{
-    height: 600px;
+    background-color:deepskyblue;
+    height: 500px;
+}
+.textTwo{
+    font-size: 15px;
 }
 
 .partFour{
-   background-color: #6c757d;
-    height: 550px;
+    background-color: #6c757d;
+    height: 500px;
 }
 
 .partFive{
-    display: flex;
     height: 300px;
     background-color: deepskyblue;
 }
+
 .partSix{
     display: flex;
     height: 400px;
@@ -76,11 +77,16 @@ html,body{
 
 .partSeven{
     height: 350px;
-    background-color: white;
 }
+
 
 .partEight{
     display: flex;
-    height: 600px;
     background-color: lightsteelblue;
+    height: 700px;
+}
+
+.partNine{
+    background-color: #3d444d;
+    height: 115px;
 }
